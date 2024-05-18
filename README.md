@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-# Hi, I'm Dovud!
+I'm Dovud!
 
 Welcome to my GitHub profile. You can find more about my work on the following platforms:
 
