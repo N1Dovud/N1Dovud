@@ -7,6 +7,6 @@ Welcome to my GitHub profile. You can find more about my work on the following p
 - [Frontend Mentor](https://www.frontendmentor.io/profile/N1Dovud)
 - [Leetcode](https://leetcode.com/u/smbsmbsmbsmb/)
 - [FreeCodeCamp](https://www.freecodecamp.org/fccb6330ab9-a771-49a8-ae2b-75fc2a7774aa)
-- [roadmap](https://roadmap.sh/u/n1dovud)
-- [medium](https://medium.com/@N1Dovud)
+- [Roadmap](https://roadmap.sh/u/n1dovud)
+- [Medium](https://medium.com/@N1Dovud)
 - [Personal Website](http://dovudjurayev.site)
